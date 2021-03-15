@@ -6,4 +6,4 @@ as the saying goes:
 
 _keep track of the main points_
 ## Code 301 - Intermediate Software Development
- [prework reading](https://github.com/TrunkOfUkuleles/reading-notes/blob/main/Read:%20Class%201%20prework.md
+ [prework reading](https://TrunkOfUkuleles.github.io/reding-notes/Read: Class 1 prework.md)
