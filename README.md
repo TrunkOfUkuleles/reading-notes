@@ -7,3 +7,5 @@ as the saying goes:
 _keep track of the main points_
 ## Code 301 - Intermediate Software Development
  [prework reading](https://trunkofukuleles.github.io/reading-notes/Class1prework)
+
+[reading class 02] (https://trunkofukuleles.github.io/reading-notes/class2reading)
