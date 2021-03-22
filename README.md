@@ -15,3 +15,5 @@ _keep track of the main points_
 [class 04 reading](https://trunkOfUkulelesgithub.io/reading-notes/class4reading)
 
 [class 05 reading](https://trunkOfUkulelesgithub.io/reading-notes/class5reading)
+
+[class 06 reading](https://trunkOfUkulelesgithub.io/reading-notes/class6reading)
