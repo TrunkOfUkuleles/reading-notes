@@ -10,10 +10,10 @@ _keep track of the main points_
 
 [class 02 reading](https://trunkofukuleles.github.io/reading-notes/class2reading)
 
-[class 03 reading](https://trunkOfUkulelesgithub.io/reading-notes/class3reading)
+[class 03 reading](https://trunkOfUkuleles.github.io/reading-notes/class3reading)
 
-[class 04 reading](https://trunkOfUkulelesgithub.io/reading-notes/class4reading)
+[class 04 reading](https://trunkOfUkuleles.github.io/reading-notes/class4reading)
 
-[class 05 reading](https://trunkOfUkulelesgithub.io/reading-notes/class5reading)
+[class 05 reading](https://trunkOfUkuleles.github.io/reading-notes/class5reading)
 
-[class 06 reading](https://trunkOfUkulelesgithub.io/reading-notes/class6reading)
+[class 06 reading](https://trunkOfUkuleles.github.io/reading-notes/class6reading)
