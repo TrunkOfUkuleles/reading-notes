@@ -6,10 +6,22 @@ as the saying goes:
 
 _keep track of the main points_
 ## Code 301 - Intermediate Software Development
- [prework reading](https://trunkofukuleles.github.io/reading-notes/Class1prework)
+[prework reading](https://trunkofukuleles.github.io/reading-notes/Class1prework)
 
 [class 02 reading](https://trunkofukuleles.github.io/reading-notes/class2reading)
 
-[class 03 reading](https://TrunkOfUkulelesgithub.io/reading-notes/class3reading)
+[class 03 reading](https://trunkOfUkuleles.github.io/reading-notes/class3reading)
 
-[class 04 reading](https://TrunkOfUkulelesgithub.io/reading-notes/class4reading)
+[class 04 reading](https://trunkOfUkuleles.github.io/reading-notes/class4reading)
+
+[class 05 reading](https://trunkOfUkuleles.github.io/reading-notes/class5reading)
+
+[class 06 reading](https://trunkOfUkuleles.github.io/reading-notes/class6reading)
+
+[class 07 reading](https://trunkOfUkuleles.github.io/reading-notes/class7reading)
+
+[class 08 reading](https://trunkOfUkuleles.github.io/reading-notes/class8reading)
+
+[class 09 reading](https://trunkOfUkuleles.github.io/reading-notes/class9reading)
+
+[class 10 reading](https://trunkOfUkuleles.github.io/reading-notes/class10reading)
