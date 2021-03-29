@@ -25,3 +25,5 @@ _keep track of the main points_
 [class 09 reading](https://trunkOfUkuleles.github.io/reading-notes/class9reading)
 
 [class 10 reading](https://trunkOfUkuleles.github.io/reading-notes/class10reading)
+
+[class 11 reading](https://trunkOfUkuleles.github.io/reading-notes/class11reading)
