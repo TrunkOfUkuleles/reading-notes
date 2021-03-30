@@ -16,3 +16,10 @@ Structured Query Language. SELECT id,name,price FROM products basic commands. Ge
 
 ### NoSQL - MongoDB
 
+less relational data, more attaching the information needed in each collection so they have to merge way less often. Means it gets bigger and is more clumsy to update. No SChima means less angry errors, but you can't be sure the shape of data you are getting at any one time. Good for projects with a lof of read actions, but not many writes.
+
+### Horizontal / Vertical Scaling
+
+SQL doesn't like horizontal. Spliting the database across servers no go. Vertical gives a larger and more powreful server to run off us, but those expenses are more immediate. 
+
+Also Redis is good
