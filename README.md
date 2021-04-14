@@ -6,7 +6,7 @@ as the saying goes:
 
 _keep track of the main points_
 
-##Code 401 - Fullstack Javascript
+## Code 401 - Fullstack Javascript
 
 
 ## Code 301 - Intermediate Software Development
