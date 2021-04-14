@@ -1,10 +1,14 @@
-# Reading Notes
+### Reading Notes
 
-Just some reading for the **CodeFellows _301_ course**
+Just some reading for **CodeFellows courses: _301__401__**
 as the saying goes:
 > read not, want.....[more](https://trunkofukuleles.github.io/)?
 
 _keep track of the main points_
+
+##Code 401 - Fullstack Javascript
+
+
 ## Code 301 - Intermediate Software Development
 [prework reading](https://trunkofukuleles.github.io/reading-notes/Class1prework)
 
