@@ -1,6 +1,6 @@
-# Reading Notes
+### Reading Notes
 
-Just some reading for the **CodeFellows _301_ course**
+Just some reading for **CodeFellows courses: _301__401__**
 as the saying goes:
 > read not, want.....[more](https://trunkofukuleles.github.io/)?
 
