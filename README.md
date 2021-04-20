@@ -7,10 +7,14 @@ as the saying goes:
 _keep track of the main points_
 
 ## Code 401 - Full Stack
-[Prework reading](https://trunkofukuleles.github.io/reading-notes/401pre)
+
+[prework reading](https://trunkofukuleles.github.io/reading-notes/401pre)
+
+[class 01 reading](https://trunkofukuleles.github.io/reading-notes/401class1)
 
 
 ## Code 301 - Intermediate Software Development
+
 [prework reading](https://trunkofukuleles.github.io/reading-notes/Class1prework)
 
 [class 02 reading](https://trunkofukuleles.github.io/reading-notes/class2reading)
