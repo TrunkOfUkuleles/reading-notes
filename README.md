@@ -12,6 +12,8 @@ _keep track of the main points_
 
 [class 01 reading](https://trunkofukuleles.github.io/reading-notes/401class1)
 
+[class 02 reading](https://trunkofukuleles.github.io/reading-notes/401class2)
+
 
 ## Code 301 - Intermediate Software Development
 
