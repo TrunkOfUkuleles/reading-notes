@@ -36,5 +36,5 @@ What are you most excited about trying to implement or see how it works?
     - stick to system
     - review periodically
 
-![RBAC]{'./assets/Role-based_access_control.jpg'}
+![RBAC]("./assets/Role-based_access_control.jpg")
 

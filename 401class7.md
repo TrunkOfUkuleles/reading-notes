@@ -54,7 +54,7 @@ Header.Payload.Signature
     Header - token type (JWT) and the algo being used, then it is base-64 rencoded.
 
 
-    ![cred]{'./assets/client-credentials-grant.png'}
+![cred]{'./assets/client-credentials-grant.png'}
 
 
 ### Bearer
