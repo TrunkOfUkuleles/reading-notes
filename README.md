@@ -58,6 +58,10 @@ _keep track of the main points_
 
 [class 38 reading](https://trunkofukuleles.github.io/reading-notes/401class38)
 
+[class 39 reading](https://trunkofukuleles.github.io/reading-notes/401class39)
+
+[class 41 reading](https://trunkofukuleles.github.io/reading-notes/401class41)
+
 ## Code 301 - Intermediate Software Development
 
 [prework reading](https://trunkofukuleles.github.io/reading-notes/Class1prework)
